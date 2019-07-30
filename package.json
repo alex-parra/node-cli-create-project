@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/alex-parra/node-cli-create-project#readme",
   "dependencies": {
-    "esm": "^3.2.25"
+    "arg": "^4.1.1",
+    "esm": "^3.2.25",
+    "inquirer": "^6.5.0"
   }
 }
