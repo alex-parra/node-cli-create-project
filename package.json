@@ -1,0 +1,27 @@
+{
+  "name": "@alexparra/create-project",
+  "version": "1.0.0",
+  "description": "Node.js CLI tool to create a new project from templates",
+  "main": "src/index.js",
+  "bin": {
+    "@alexparra/create-project": "bin/create-project",
+    "create-project": "bin/create-project"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-parra/node-cli-create-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-parra/node-cli-create-project/issues"
+  },
+  "homepage": "https://github.com/alex-parra/node-cli-create-project#readme",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
